@@ -3,7 +3,7 @@ body, header, nav, ul, li, p {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(../image/韩信典藏.webp);
+    background-image: url('韩信典藏.webp');
   }
   
   /* Global styles */

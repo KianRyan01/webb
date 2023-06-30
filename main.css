@@ -16,7 +16,7 @@ body {
   height: 100vh;
   font-family: Arial, sans-serif;
   color: #fff;
-  background-image: url('../image/新赛季.jpg');
+  background-image: url('新赛季.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

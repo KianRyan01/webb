@@ -11,7 +11,7 @@ body, header, nav, ul, li, p {
     color: #fff;
     background-size: cover;
     background-position: center;
-    background-image: url('../image/飞牛.webp');
+    background-image: url('飞牛.webp');
     background-repeat: no-repeat;
     min-height: 100vh;
     display: flex;
